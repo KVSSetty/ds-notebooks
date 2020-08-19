@@ -1,0 +1,10 @@
+name:ds-environment
+channels:
+- conda-forge
+dependencies:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scipy
+- dill
