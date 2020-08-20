@@ -8,3 +8,7 @@ dependencies:
 - seaborn
 - scipy
 - dill
+- graphviz
+- python-graphviz
+- imageio
+
