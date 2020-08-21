@@ -26,6 +26,9 @@ This tutorial requries the following packages:
 - `jupyter lab` version 1.0 or later, with notebook support: https://jupyter.org/index.html
 - `seaborn` version 0.5 or later: https://seaborn.pydata.org/
 - `pandas` vesion 1.0.0 or later: https://pandas.pydata.org/
+- `seaborn` version 0.5 or later: https://seaborn.pydata.org/
+- `pandas` vesion 1.0.0 or later: https://pandas.pydata.org/
+- `XGBoost` latest version: https://xgboost.readthedocs.io/en/latest/python/index.html
 
 
 The easiest way to get these is to use the [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://store.continuum.io/) environment manager.
