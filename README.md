@@ -27,7 +27,6 @@ This tutorial requries the following packages:
 - `seaborn` version 0.5 or later: https://seaborn.pydata.org/
 - `pandas` vesion 1.0.0 or later: https://pandas.pydata.org/
 - `seaborn` version 0.5 or later: https://seaborn.pydata.org/
-- `pandas` vesion 1.0.0 or later: https://pandas.pydata.org/
 - `XGBoost` latest version: https://xgboost.readthedocs.io/en/latest/python/index.html
 
 
