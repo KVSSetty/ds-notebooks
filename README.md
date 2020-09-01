@@ -9,7 +9,7 @@
 - github: [KVSSetty](https://github.com/KVSSetty)
 - facebook: [KvsSetty](https://www.facebook.com/kvssetty)
 - medium: [KV Subbaiah Setty](https://medium.com/@kvssetty)
-- online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
+
 
 This repository contains notebooks and other files associated with my
 **Data Science Tutorials** primarily using [`numpy`](http://www.numpy.org/) version 1.5 or later, [`matplotlib`](http://matplotlib.org/) version 1.3 or later,
